@@ -2,6 +2,7 @@
 Source for www.wealthInnovations.ca
 
 Project Manager: Claire Crawford
+
 System Integrator: David Skinner
 
 Hugo Source
