@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Ananke</title>
+    <link>https://wica.davsk.net/services/</link>
+    <description>Recent content in Services on Ananke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://wica.davsk.net/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estate Planning Solution</title>
+      <link>https://wica.davsk.net/services/estate_planning/estate_planning_solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wica.davsk.net/services/estate_planning/estate_planning_solution/</guid>
+      <description>Estate planning actually refers to the process required to transfer and preserve your estate in both an orderly and tax-effective manner.
+The WILL forms the centerpiece of a well structured estate plan. The will gives clear direction as to how the assets will be distributed. The estate plan also focuses on the tax implications with a goal of minimizing and deferring taxes on death so that the estate can be preserved for its beneficiaries.</description>
+    </item>
+    
+  </channel>
+</rss>
