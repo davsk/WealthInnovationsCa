@@ -4,7 +4,7 @@
   <node name="index" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679534048" ts_lastsave="1679538171">
     <rich_text>&#13;&#13;&#13;</rich_text>
   </node>
-  <node name="sitemap" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679538171" ts_lastsave="1680725687">
+  <node name="sitemap" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679538171" ts_lastsave="1680920315">
     <rich_text>☐ Home
    ☐ Heroes
       ☐ Hero1
@@ -25,9 +25,9 @@
       ☐ Copywright
       ☐ Slogan
       ☐ #top
-☐ Our Philosophy
-   ☐ Cards - Our Core Competencies
-      ☐ Objectivity
+☒ Our Philosophy
+   ☒ Cards - Our Core Competencies
+      ☑ Objectivity
       ☐ Transparency
       ☐ Process
       ☐ Service
@@ -42,7 +42,7 @@
       ☐ Tax Free Savings Account
       ☐ Capital Gains Exemption Planning
       ☐ Income Splitting
-   ☐ Retirement Income
+   ☒ Retirement Income
       ☐ Government Plans
       ☐ Insured Retirement Program
       ☐ Individual Pension Plan
@@ -50,12 +50,12 @@
    ☒ Estate Planning Solutions
       ☒ Will
       ☐ Succession Planning
-☑ Solutions
-   ☐ Start-Up
-   ☑ Mid-Career
-   ☐ Retirement
-   ☑ Exit Strategies
-   ☐ RRSP
+☒ Solutions
+   ☒ Start-Up
+   ☒ Mid-Career
+   ☒ Retirement
+   ☒ Exit Strategies
+   ☒ RRSP
 ☐ Resources
 ☐ Contact Us
 ☐ Meet with Us - CTA
@@ -63,5 +63,6 @@
 ☐ Diagnostic-Tool
 ☐ Diagnostic-Tool-B
 </rich_text>
+    <node name="scratch" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1680821574" ts_lastsave="1680821574"/>
   </node>
 </cherrytree>
