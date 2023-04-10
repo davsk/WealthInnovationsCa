@@ -2,21 +2,19 @@ description: The starter theme template of HB (Hugo Bootstrap) Framework.
 
 hb:
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
+    brand: Wealth Innovations # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     socials:
-      github: hbstack
-      kofi: razonyang
-      paypal: razonyang
-      twitter: razonyang
-      mastodon: razonyang
+      github: WealthInnovations
+      twitter: foo
+      mastodon: foo
+      facebook: foo
+      instagram: foo
+
   footer:
     socials:
-      github: hbstack
-      kofi: razonyang
-      paypal: razonyang
-      twitter: razonyang
-      mastodon: razonyang
+      github: WealthInnovations
+
   blog:
     paginate: 12 # paginate.
     home: # homepage settings.
@@ -25,25 +23,25 @@ hb:
         - docs
         - blog
         - tutorials
-    giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
-  docs:
-    giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
+ #   giscus:
+ #     repo: hbstack/theme
+ #     repo_id: R_kgDOJP3qtA
+ #     category_id: DIC_kwDOJP3qtM4CVavM
+ # docs:
+ #   giscus:
+ #     repo: hbstack/theme
+ #     repo_id: R_kgDOJP3qtA
+ #     category_id: DIC_kwDOJP3qtM4CVavM
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme
+      repo: WealthInnovationsCa
       branch: main
       # subpath: exampleSite
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    icon: images/logo.png # use logo as favicon.
+    icon: faveicon.ico # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:

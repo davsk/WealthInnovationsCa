@@ -1,14 +1,14 @@
-baseURL: https://hb-theme.hugomods.com/
-title: HB Theme Template
+baseURL: https://WealthInnovations.CA/
+title: Wealth Innovations
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com) and [Hugo Bootstrap Framework](https://hb.hugomods.com). All Rights Reserved."
+copyright: "Copyright © 2021-{year} Wealth Innovations. All Rights Reserved."
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs. 
-disqusShortname: hb-site
+defaultContentLanguageInSubdir: false # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
+disqusShortname:
 enableRobotsTXT: true
 
 permalinks:
-  blog: /blog/:year/:month/:title
+  blog: /post/:year/:month/:title
 
 module:
   # For some regions can not access the proxy.golang.org, i.e. China.
@@ -61,10 +61,8 @@ outputs:
     - WebAppManifest
 
 taxonomies:
-  authors: authors
   tags: tags
   categories: categories
-  series: series
 
 build:
   writeStats: true

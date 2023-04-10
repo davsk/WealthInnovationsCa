@@ -4,7 +4,7 @@
   <node name="index" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679534048" ts_lastsave="1679538171">
     <rich_text>&#13;&#13;&#13;</rich_text>
   </node>
-  <node name="sitemap" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679538171" ts_lastsave="1680999981">
+  <node name="sitemap" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679538171" ts_lastsave="1681006043">
     <rich_text>☐ Home
    ☐ Heroes
       ☐ Hero1
@@ -39,14 +39,14 @@
       ☒ Life Insurance
       ☒ Disability Insurance
    ☐ Tax Sheltering
-      ☐ Tax Free Savings Account
-      ☐ Capital Gains Exemption Planning
-      ☐ Income Splitting
+      ☒ Tax Free Savings Account
+      ☒ Capital Gains Exemption Planning
+      ☑ Income Splitting
    ☒ Retirement Income
-      ☐ Government Plans
-      ☐ Insured Retirement Program
-      ☐ Individual Pension Plan
-      ☐ Retirement Compensation Agreement
+      ☑ Government Plans
+      ☑ Insured Retirement Program
+      ☑ Individual Pension Plan
+      ☑ Retirement Compensation Agreement
    ☒ Estate Planning Solutions
       ☒ Will
       ☐ Succession Planning
