@@ -1,7 +1,6 @@
 ---
-title: "CAPITAL GAINS EXEMPTION PLANNING"
+title: "Capital Gains Exemption Planning"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

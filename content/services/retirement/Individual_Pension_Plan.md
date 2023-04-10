@@ -1,7 +1,6 @@
 ---
 title: "INDIVIDUAL PENSION PLAN"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

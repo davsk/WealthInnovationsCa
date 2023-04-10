@@ -1,6 +1,6 @@
 ---
-title: "CORPORATE DISABILITY OPTION – OVERHEAD COVERAGE"
-linkTitle: "Overhead Coverage
+title: "Corporate Disability Option – Overhead Coverage"
+linkTitle: "Overhead Coverage"
 draft: true
 description: 
 noindex: false

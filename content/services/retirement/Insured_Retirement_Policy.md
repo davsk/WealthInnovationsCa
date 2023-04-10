@@ -1,7 +1,6 @@
 ---
 title: "Insured Retirement Policy"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

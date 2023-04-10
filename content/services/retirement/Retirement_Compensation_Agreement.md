@@ -1,7 +1,6 @@
 ---
 title: "RETIREMENT COMPENSATION AGREEMENT"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

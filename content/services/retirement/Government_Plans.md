@@ -1,7 +1,6 @@
 ---
 title: "GOVERNMENT PLANS"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false
