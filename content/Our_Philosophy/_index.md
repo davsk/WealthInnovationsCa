@@ -43,20 +43,27 @@ Our team’s multi-disciplinary approach to helping professionals, retirees and 
 
 OUR CORE COMPETENCIES
 
+{{< bs/alert primary >}}
 OBJECTIVITY
 Our clients can be absolutely certain that the recommendations made by us are driven exclusively by their needs.
+{{< /bs/alert >}}
 
+{{< bs/alert secondary >}}
 TRANSPARENCY
 Our process and recommendations are fully transparent to our clients.
+{{< /bs/alert >}}
 
-
+{{< bs/alert success >}}
 PROCESS
 We have a clearly defined process for the assessment, implementation and review of our recommendations.
+{{< /bs/alert >}}
 
-
+{{< bs/alert info >}}
 SERVICE
 We deliver the exceptional service expected by the clients we serve.
+{{< /bs/alert >}}
 
-
+{{< bs/alert warning >}}
 INNOVATIVE
 Our unique research process offers creative insurance and investment solutions
+{{< /bs/alert >}}

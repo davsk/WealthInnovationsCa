@@ -1,7 +1,6 @@
 ---
 title: "SUCCESSION PLANNING"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false
