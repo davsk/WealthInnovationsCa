@@ -1,7 +1,6 @@
 ---
 title: "LIFE INSURANCE - INSURED RETIREMENT PROGRAM"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

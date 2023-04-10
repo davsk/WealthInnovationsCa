@@ -1,7 +1,7 @@
 ---
 title: "Personal and/or Corporate Insurance"
 # linkTitle:
-date: {{ .Date }}
+
 draft: true
 description: 
 noindex: false

@@ -1,7 +1,6 @@
 ---
 title: "LIFE INSURANCE - SHAREHOLDERS AGREEMENT"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

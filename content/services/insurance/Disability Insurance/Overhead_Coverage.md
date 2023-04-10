@@ -1,7 +1,6 @@
 ---
 title: "CORPORATE DISABILITY OPTION – OVERHEAD COVERAGE"
-# linkTitle:
-date: {{ .Date }}
+linkTitle: "Overhead Coverage
 draft: true
 description: 
 noindex: false

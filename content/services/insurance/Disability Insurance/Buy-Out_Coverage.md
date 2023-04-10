@@ -1,7 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-# linkTitle:
-date: {{ .Date }}
+title: "Disability Insurance Buy-Out Coverage"
+linkTitle: "Buy-Out Coverage
 draft: true
 description: 
 noindex: false
@@ -11,12 +10,12 @@ nav_weight: 1000
 #   vendor: bootstrap
 #   name: toggles
 #   color: '#e24d0e'
-series:
-  - Tutorial
 categories:
+- Insurance
 #  - 
 tags:
-#  - 
+ - Insurance
+ - Disability
 images:
 # menu:
 #   main:

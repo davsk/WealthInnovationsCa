@@ -1,7 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Life Insurance"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

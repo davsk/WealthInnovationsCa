@@ -1,7 +1,6 @@
 ---
 title: "Critical Illness Insurance"
 # linkTitle:
-date: {{ .Date }}
 draft: true
 description: 
 noindex: false

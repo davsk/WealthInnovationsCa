@@ -1,7 +1,6 @@
 ---
-title: "DISABILITY - PERSONAL"
-# linkTitle:
-date: {{ .Date }}
+title: "Personal Disability Insurance"
+linkTitle: Personal
 draft: true
 description: 
 noindex: false
