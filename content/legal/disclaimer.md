@@ -1,6 +1,6 @@
 ---
 title: "Website Legal Disclaimer"
-# linkTitle:
+linkTitle: Disclaimer
 date: 8 April 2023
 draft: true
 description: 

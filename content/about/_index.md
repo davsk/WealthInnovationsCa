@@ -16,14 +16,14 @@ categories:
 tags:
 #  - 
 images:
-# menu:
-#   main:
-#     weight: 200
-#     params:
-#       icon:
-#         vendor: bs
-#         name: book
-#         color: '#e24d0e'
+menu:
+    main:
+        weight: 200
+        params:
+            icon:
+                vendor: bs
+                name: book
+                color: '#e24d0e'
 ---
 
 Summary.

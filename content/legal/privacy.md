@@ -1,9 +1,8 @@
 ---
 title: "PIPEDA Privacy Policy"
 # linkTitle:
-
 draft: true
-description: 
+description: PIPEDA Privicy Policy for Canadian Users of WealthInnovations.CA Website
 noindex: false
 # comments: false
 nav_weight: 1000
@@ -11,10 +10,7 @@ nav_weight: 1000
 #   vendor: bootstrap
 #   name: toggles
 #   color: '#e24d0e'
-series:
-  - Legal
-categories:
-#  - 
+categories: legal
 tags:
 #  - 
 images: https://www.wealthinnovations.ca/sites/default/files/1920x1200.jpg
@@ -22,11 +18,11 @@ images: https://www.wealthinnovations.ca/sites/default/files/1920x1200.jpg
 menu:
   footer:
     weight: 100
-#     params:
-#       icon:
-#         vendor: bs
-#         name: book
-#         color: '#e24d0e'
+    params:
+      icon:
+        vendor: bs
+        name: book
+        color: '#e24d0e'
 ---
 
 PIPEDA Privicy Policy for Canadian Users of WealthInnovations.CA Website
