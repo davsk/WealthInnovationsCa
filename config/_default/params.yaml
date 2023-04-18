@@ -41,7 +41,7 @@ hb:
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    icon: /image/favicon.ico # use logo as favicon.
+    svg_icon: /image/favicon.svg # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:
