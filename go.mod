@@ -6,7 +6,7 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.1.2 // indirect
 	github.com/hbstack/base v0.1.3 // indirect
-	github.com/hbstack/bigger-picture v0.5.0 // indirect
+	github.com/hbstack/bigger-picture v0.6.0 // indirect
 	github.com/hbstack/blog v0.7.1 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.0 // indirect
@@ -26,7 +26,7 @@ require (
 	github.com/hbstack/docs/modules/heading-sign v0.1.1 // indirect
 	github.com/hbstack/footer v0.1.5 // indirect
 	github.com/hbstack/footer/modules/socials v0.1.2 // indirect
-	github.com/hbstack/gallery v0.2.2 // indirect
+	github.com/hbstack/gallery v0.4.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.1.4 // indirect
 	github.com/hbstack/header v0.1.10 // indirect
@@ -50,7 +50,7 @@ require (
 	github.com/hbstack/search v0.1.7 // indirect
 	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 // indirect
-	github.com/hugomods/bootstrap v0.4.0 // indirect
+	github.com/hugomods/bootstrap v0.6.0 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect

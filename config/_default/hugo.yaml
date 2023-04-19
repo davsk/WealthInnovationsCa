@@ -51,7 +51,7 @@ module:
 
     # recommended modules
     - path: github.com/hbstack/meta/recommended
-
+    - path: github.com/hugomods/bootstrap
 outputs:
   home:
     - HTML

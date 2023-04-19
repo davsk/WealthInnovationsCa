@@ -1,5 +1,5 @@
 ---
-title: HB 主题模板
+title: WI 財富創新
 # menu:
 #   main:
 #     name: 主页
