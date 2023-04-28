@@ -3,7 +3,7 @@ description: The starter theme template of HB (Hugo Bootstrap) Framework.
 hb:
   header:
     brand: Wealth Innovations # the brand name, leave it empty to use site's title.
-    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    logo_bg: dark green # logo background color, used by logo with transparent background.
     socials:
       github: WealthInnovations
       twitter: foo
@@ -20,9 +20,9 @@ hb:
     home: # homepage settings.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
-        - docs
-        - blog
-        - tutorials
+ #       - docs
+ #       - blog
+ #       - tutorials
  #   giscus:
  #     repo: hbstack/theme
  #     repo_id: R_kgDOJP3qtA
@@ -47,9 +47,9 @@ seo:
 pwa:
   debug: false
   manifest:
-    background_color: '#712cf9'
-    theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    background_color: white
+    theme_color: green
+    short_name: 'WealthInnovations'
 
 hugopress:
   modules:
