@@ -1,4 +1,7 @@
-<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form
+  action="https://formspree.io/f/xzblplgz"
+  method="POST"
+  <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">First Name</label>
     <input type="text" name="name" id="full-name" placeholder="First name" required="">  <label for="full-name">Last Name</label>
