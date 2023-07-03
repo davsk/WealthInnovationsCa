@@ -1,5 +1,4 @@
-
-<form id="fs-frm" 
+{{ <form id="fs-frm" 
   name="registration-form" 
   accept-charset="utf-8"
   action="https://formspree.io/f/xzblplgz" 
@@ -97,4 +96,4 @@
   </fieldset>
   
   <input type="submit" value="Register">
-</form>
+</form> }}
