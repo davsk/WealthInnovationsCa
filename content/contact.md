@@ -1,11 +1,29 @@
 ---
-
-menu:
-- main
-- footer
-
 Title: Contact Us
-
+draft: false
+description:
+noindex: true
+# comments: false
+nav_weight: 1000
+nav_icon:
+  vendor: bootstrap
+  name: toggles
+  color: '#e24d0e'
+# series:
+#  - Tutorial
+# categories:
+#  -
+tags:
+#  -
+images:
+menu:
+  main:
+    weight: 600
+    params:
+      icon:
+        vendor: bs
+        name: book
+        color: '#e24d0e'
 ---
 {{% bs/alert %}}
 Let us serve you no matter where you're located.
