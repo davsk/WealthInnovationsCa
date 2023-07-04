@@ -1,9 +1,10 @@
 ---
 title: "Retirement"
 date: 2017-03-02T12:00:00-05:00
-description: For anyone who is either approaching, or has already entered into retiement.
+description: For anyone who is either approaching or has already entered into retirement.
+weight: 300
 ---
-### As you enter the twilight of your career, or perhaps you have already reached retirement, you reflect on how the time has passed so quickly.
+### As you enter the twilight of your career, or perhaps you have already reached retirement, you reflect on how time has passed so quickly.
 ---
 It seems like only yesterday you began what has turned out to be a very successful career. With a degree of trepidation, you realize that you will now be drawing on your assets for the rest of your life; quite an adjustment after decades of accumulating wealth- you no longer have a paycheck.
 
