@@ -1,5 +1,21 @@
 ---
-title: Meet-with-me
+title: "Meet with Me"
+description: "Form to request contact from Wealth Innovations."
+noindex: false
+comments: false
+nav_weight: 1000
+nav_icon:
+  vendor: bootstrap
+  name: toggles
+  color: '#e24d0e'
+menu:
+  main:
+    weight: 100
+    params:
+      icon:
+        vendor: bs
+        name: book
+        color: '#e24d0e'  
 ---
 <form id="fs-frm" 
   name="registration-form" 
