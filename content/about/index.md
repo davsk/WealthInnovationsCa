@@ -7,8 +7,8 @@ noindex: false
 # comments: false
 nav_weight: 1000
 nav_icon:
-  vendor: bootstrap
-  name: toggles
+  vendor: fontawesome
+  name: handshake
   color: '#e24d0e'
 
 categories:
