@@ -1,7 +1,8 @@
 ---
 title: "Exit Strategies"
 date: 2017-03-02T12:00:00-05:00
-description: For business owners who are looking to pass on their business, and potentally retire from the proceeds..
+description: For business owners who are looking to pass on their business, and potentially retire from the proceeds.
+weight: 400
 ---
 #### If you own a business or have a professional practice, a significant part of your planning will include preparing for the eventual transfer or sale of the business.
 
