@@ -2,7 +2,7 @@ description: The starter theme template of HB (Hugo Bootstrap) Framework.
 
 hb:
   header:
-    brand: Prepare for the Future# the brand name, leave it empty to use site's title.
+    brand: "" # the brand name, leave it empty to use site's title.
     logo_bg: dark green # logo background color, used by logo with transparent background.
     socials:
       github: WealthInnovations
