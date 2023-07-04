@@ -10,14 +10,6 @@ enableRobotsTXT: true
 permalinks:
   blog: /post/:year/:month/:title
 
-menu:
-  main:
-    identifier: “blog”
-    name: “blog”
-    title: “Resources”
-    url: “/resources”
-    weight: 500
-
 module:
   # For some regions can not access the proxy.golang.org, i.e. China.
   # proxy: https://goproxy.cn,https://goproxy.io,https://mirrors.aliyun.com/goproxy,direct
