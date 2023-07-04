@@ -2,6 +2,7 @@
 title: "Start-up"
 date: 2017-03-02T12:00:00-05:00
 description: For anyone who has just begun their career or is in the early years.
+weight: 100
 ---
 ## Congratulations on beginning your new career.
 
