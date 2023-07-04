@@ -1,15 +1,15 @@
 ---
 title: "Services"
 date: 2017-03-02T12:00:00-05:00
-draft: true
+draft: false
 description:
 noindex: false
 # comments: false
 nav_weight: 1000
-# nav_icon:
-#   vendor: bootstrap
-#   name: toggles
-#   color: '#e24d0e'
+nav_icon:
+  vendor: bootstrap
+  name: toggles
+  color: '#e24d0e'
 series:
   - Tutorial
 categories:
@@ -17,14 +17,14 @@ categories:
 tags:
 #  -
 images:
-# menu:
-#   main:
-#     weight: 100
-#     params:
-#       icon:
-#         vendor: bs
-#         name: book
-#         color: '#e24d0e'
+ menu:
+  main:
+    weight: 100
+    params:
+      icon:
+       vendor: bs
+       name: book
+       color: '#e24d0e'
 ---
 OUR FLEXIBLE SUITE OF SERVICES TAILORED TO MEET YOUR CURRENT AND FUTURE NEEDS.
 
