@@ -19,7 +19,7 @@ tags:
 images:
 menu:
   main:
-    weight: 100
+    weight: 300
     params:
       icon:
         vendor: bs
