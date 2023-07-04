@@ -2,6 +2,7 @@
 title: "Mid-Career"
 date: 2017-03-02T12:00:00-05:00
 description: For anyone who has been working for more than ten years and has a stable income.
+weight: 200
 ---
 You have gained significant experience and built a successful business or professional practice. You have developed many meaningful relationships both personally and professionally. At this stage of life, accumulating and protecting wealth is an important priority.
 
