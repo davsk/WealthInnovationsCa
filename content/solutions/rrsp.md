@@ -2,6 +2,7 @@
 title: "RRSP"
 description: Registered Retirement Savngs Plans (RRSPs)
 author: ""
+weight: 500
 ---
 REGISTERED RETIREMENT SAVINGS PLANS (RRSPS)
 Are you looking to reduce your tax liability this year?
