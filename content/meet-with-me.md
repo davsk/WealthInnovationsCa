@@ -10,7 +10,7 @@ nav_icon:
   color: '#e24d0e'
 menu:
   main:
-    weight: 100
+    weight: 700
     params:
       icon:
         vendor: bs
