@@ -13,9 +13,9 @@ permalinks:
 menu:
   main:
     identifier: “blog”
-    name: = “blog”
-    title = “Resources”
-    url = “/resources”
+    name: “blog”
+    title: “Resources”
+    url: “/resources”
     weight: 500
 
 module:
