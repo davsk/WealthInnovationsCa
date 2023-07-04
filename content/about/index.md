@@ -21,8 +21,8 @@ menu:
     weight: 200
     params:
       icon:
-        vendor: bs
-        name: book
+        vendor: fontawesome
+        name: handshake
         color: '#e24d0e'
 ---
 
