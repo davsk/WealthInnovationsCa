@@ -10418,7 +10418,7 @@ html {
   width: auto; }
 
 .hb-header-logo {
-  background: #712cf9; }
+  background: dark green; }
 
 .hb-header .navbar {
   --hb-navbar-hover-color: var(--hb-header-navbar-active-color);
