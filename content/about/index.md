@@ -15,8 +15,7 @@ categories:
 #  - 
 tags:
 #  - 
-images: 
-#  - images/about-us_0.jpg
+images: [about-us_0.jpg]
 menu:
   main:
     weight: 200
