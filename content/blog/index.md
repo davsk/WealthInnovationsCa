@@ -1,5 +1,5 @@
 ---
-title: "Resoures"
+title: "Resources"
 draft: false
 description:
 noindex: true
@@ -18,7 +18,7 @@ tags:
 images:
 menu:
   main:
-    weight: 600
+    weight: 500
     params:
       icon:
         vendor: bs
