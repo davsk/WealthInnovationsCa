@@ -16,7 +16,7 @@ nav_icon:
 #  -
 tags:
 #  -
-images:
+images: [services.jpg]
 menu:
   main:
     weight: 300
