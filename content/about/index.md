@@ -8,7 +8,7 @@ noindex: false
 nav_weight: 1000
 nav_icon:
   vendor: fa
-  name: handshake
+  name: fa-handshake
   color: '#e24d0e'
 
 categories:
@@ -22,7 +22,7 @@ menu:
     params:
       icon:
         vendor: fa
-        name: handshake
+        name: fa-handshake
         color: '#e24d0e'
 ---
 
