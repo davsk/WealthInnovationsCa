@@ -31,7 +31,7 @@ Let us serve you no matter where you're located.
 
 # Our Offices
 
-## OTTAWA (HEAD OFFICE)
+## OTTAWA ONTARIO (HEAD OFFICE)
 
     Wealth Innovations
     265 Carling Ave #401
@@ -40,7 +40,7 @@ Let us serve you no matter where you're located.
     info@wealthinnovations.ca
  ---
 
-## TORONTO
+## TORONTO ONTARIO
 
     Wealth Innovations
     3625 Dufferin St #340
@@ -49,7 +49,7 @@ Let us serve you no matter where you're located.
 
 ---
 
-## LONDON
+## LONDON ONTARIO
 
     Wealth Innovations Partner.
     129-4500 Blakie Rd.
