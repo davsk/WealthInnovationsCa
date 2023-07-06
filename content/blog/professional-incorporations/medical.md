@@ -1,12 +1,13 @@
 ---
-title: "Medical"
+title: "Professional Incorporations for Investors in the Medical Field"
+url: blog/professional-incorporations/medical.html
 date: 2023-07-06T13:10:38-05:00
-draft: true
+draft: false
 description: 
 noindex: false
 featured: false
 pinned: false
-# comments: false
+comments: true
 series:
 #  - 
 categories:
