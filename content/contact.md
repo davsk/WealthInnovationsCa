@@ -15,7 +15,7 @@ nav_icon:
 #  -
 tags:
 #  -
-images:
+images: [Contact1920x1200.jpg]
 menu:
   main:
     weight: 600
