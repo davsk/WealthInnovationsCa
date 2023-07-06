@@ -7,7 +7,7 @@ noindex: false
 # comments: false
 nav_weight: 1000
 nav_icon:
-  vendor: fontawesome
+  vendor: font-awesome
   name: handshake
   color: '#e24d0e'
 
