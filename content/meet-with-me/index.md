@@ -103,7 +103,8 @@ Please fill in the information below so that it is possible for us to reach you 
         
 <fieldset>
  <legend>What is your preferred method of contact?</legend>
-    
+ 
+ <div class="row g-3">   
  <div class-"form-check">
  <input class="form-check-input" type="radio" id="call-me" name="contact-method" value="Telephone">
  <label class="form-check-label" for="call-me">Telephone</label>
@@ -112,6 +113,7 @@ Please fill in the information below so that it is possible for us to reach you 
  <div class="form-check">     
  <input class="form-check-input" type="radio" id="email-me" name="contact-method" value="Email me">
  <label class="form-check-label" for="email-me">Email me</label>
+ </div>
  </div>
  
  <label for="who-referred-you">Who referred you to Wealth Innovations?</label>
