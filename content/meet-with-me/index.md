@@ -4,6 +4,7 @@ description: "Form to request contact from Wealth Innovations."
 noindex: false
 comments: false
 nav_weight: 1000
+images: [meet-banner.jpg]
 nav_icon:
   vendor: bootstrap
   name: toggles
