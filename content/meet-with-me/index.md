@@ -18,6 +18,10 @@ menu:
         name: book
         color: '#e24d0e'  
 ---
+HAVE A DISCUSSION WITH ONE OF OUR CONSULTANTS TO LEARN HOW WEALTH INNOVATION CAN BEST HELP YOU REACH YOUR INVESTMENT EXPECTATIONS AND GOALS.
+
+# YOUR INFORMATION
+Please fill in the information below so that it is possible for us to reach you to schedule an initial consultation.
 <form id="fs-frm" 
   name="registration-form" 
   accept-charset="utf-8"
@@ -100,13 +104,15 @@ menu:
 <fieldset>
  <legend>What is your preferred method of contact?</legend>
     
- <input type="radio" id="call-me" name="contact-method" value="Telephone">
- <label for="call-me">Telephone</label>
- <br>
-      
- <input type="radio" id="email-me" name="contact-method" value="Email me">
- <label for="email-me">Email me</label>
- <br>
+ <div class-"form-check">
+ <input class="form-check-input" type="radio" id="call-me" name="contact-method" value="Telephone">
+ <label class="form-check-label" for="call-me">Telephone</label>
+ </div>
+
+ <div class="form-check">     
+ <input class="form-check-input" type="radio" id="email-me" name="contact-method" value="Email me">
+ <label class="form-check-label" for="email-me">Email me</label>
+ </div>
  
  <label for="who-referred-you">Who referred you to Wealth Innovations?</label>
  <input type="text" name="who-referred-you" id="who-referred-you" placeholder="Name" required="">
