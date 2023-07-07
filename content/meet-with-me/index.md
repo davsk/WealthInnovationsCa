@@ -105,12 +105,12 @@ Please fill in the information below so that it is possible for us to reach you 
  <legend>What is your preferred method of contact?</legend>
  
  <div class="row g-3">   
- <div class-"col form-check">
+ <div class-"col-md-2 form-check">
  <input class="form-check-input" type="radio" id="call-me" name="contact-method" value="Telephone">
  <label class="form-check-label" for="call-me">Telephone</label>
  </div>
 
- <div class="col form-check">     
+ <div class="col-md-2 form-check">     
  <input class="form-check-input" type="radio" id="email-me" name="contact-method" value="Email me">
  <label class="form-check-label" for="email-me">Email me</label>
  </div>
